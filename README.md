@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lakshya-02
+- 👀 I’m interested in ... Game development
+- 🌱 I’m currently learning ... C# and C 
+- 💞️ I’m looking to collaborate on ... any Game Devloment projects
+- 📫 How to reach me ... 
+- 😄 Pronouns: ... He/him
+- ⚡ Fun fact: ... This temporary readme.md
