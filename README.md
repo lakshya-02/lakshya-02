@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... any Game Devloment projects
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... This temporary readme.md
+- ⚡ Fun fact: ... This is temporary readme.md
